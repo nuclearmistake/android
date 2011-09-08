@@ -73,6 +73,7 @@
   <project path="device/motorola/jordan" name="CyanogenMod/android_device_motorola_jordan" remote="github" />
   <project path="device/motorola/morrison" name="CyanogenMod/android_device_motorola_morrison" remote="github" />
   <project path="device/motorola/shadow" name="CM7-GB/android_device_motorola_shadow" remote="github" />
+  <project path="device/motorola/motus" name="CyanogenMod/android_device_motorola_motus" remote="github" />
   <project path="device/motorola/sholes" name="CyanogenMod/android_device_motorola_sholes" remote="github" />
   <project path="device/motorola/stingray" name="CyanogenMod/android_device_motorola_stingray" remote="github" />
   <project path="device/motorola/zeppelin" name="CyanogenMod/android_device_motorola_zeppelin" remote="github" />
@@ -101,6 +102,7 @@
   <project path="device/semc/msm7x30-common" name="CyanogenMod/android_device_semc_msm7x30-common" remote="github" />
   <project path="device/semc/zeus" name="CyanogenMod/android_device_semc_zeus" remote="github" />
   <project path="device/zte/blade" name="CyanogenMod/android_device_zte_blade" remote="github" />
+  <project path="device/zte/v9" name="CyanogenMod/android_device_zte_v9" remote="github" />
   <project path="external/alsa-lib" name="CyanogenMod/android_external_alsa-lib" remote="github" />
   <project path="external/alsa-utils" name="CyanogenMod/android_external_alsa-utils" remote="github" />
   <project path="external/apache-http" name="platform/external/apache-http" />
@@ -121,7 +123,7 @@
   <project path="external/compcache" name="CyanogenMod/android_external_compcache" revision="master" remote="github" />
   <project path="external/dbus" name="platform/external/dbus" />
   <project path="external/dhcpcd" name="platform/external/dhcpcd" />
-  <project path="external/dnsmasq" name="platform/external/dnsmasq" />
+  <project path="external/dnsmasq" name="CyanogenMod/android_external_dnsmasq" remote="github" />
   <project path="external/dropbear" name="CyanogenMod/android_external_dropbear" revision="master" remote="github" />
   <project path="external/e2fsprogs" name="CyanogenMod/android_external_e2fsprogs" remote="github" />
   <project path="external/easymock" name="platform/external/easymock" />
@@ -151,6 +153,7 @@
   <project path="external/jsr305" name="platform/external/jsr305" />
   <project path="external/junit" name="platform/external/junit" />
   <project path="external/kernel-headers" name="platform/external/kernel-headers" />
+  <project path="external/libexif" name="CyanogenMod/android_external_libexif" remote="github" />
   <project path="external/libffi" name="platform/external/libffi" />
   <project path="external/libgsm" name="platform/external/libgsm" />
   <project path="external/libncurses" name="CyanogenMod/android_external_libncurses" remote="github" />
@@ -278,7 +281,7 @@
   <project path="packages/wallpapers/MusicVisualization" name="platform/packages/wallpapers/MusicVisualization" />
   <project path="prebuilt" name="platform/prebuilt" />
   <project path="sdk" name="platform/sdk" revision="tools_r7" />
-  <project path="system/bluetooth" name="platform/system/bluetooth" />
+  <project path="system/bluetooth" name="CyanogenMod/android_system_bluetooth" remote="github" />
   <project path="system/core" name="CyanogenMod/android_system_core" remote="github" />
   <project path="system/extras" name="CyanogenMod/android_system_extras" remote="github" />
   <project path="system/media" name="platform/system/media" />

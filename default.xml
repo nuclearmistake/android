@@ -251,7 +251,7 @@
   
   <!--
   <project path="hardware/ti/omap3-compat" name="CyanogenMod/android_hardware_ti_omap3-compat" revision="gingerbread" />
-  <--
+  -->
   
   <project path="hardware/ti/wlan" name="CyanogenMod/android_hardware_ti_wlan" />
   

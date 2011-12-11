@@ -24,7 +24,7 @@
   <project path="device/htc/common" name="CyanogenMod/android_device_htc_common" />
   <project path="device/motorola/common" name="CyanogenMod/android_device_motorola_common" />
   <project path="device/motorola/droid2" name="CM7-GB/android_device_motorola_droid2" />
-  <project path="device/motorola/droid2we" name="CM7-GB/android_device_motorola_droid2we" />
+  <project path="device/motorola/droid2we" name="nuclearmistake/android_device_motorola_droid2we" />
   <project path="device/motorola/jordan" name="CyanogenMod/android_device_motorola_jordan" />
   <project path="device/motorola/morrison" name="CyanogenMod/android_device_motorola_morrison" />
   <project path="device/motorola/motus" name="CyanogenMod/android_device_motorola_motus" />
